@@ -1,0 +1,10 @@
+main: me.zinno.demo.Demo
+version: 2.2.1
+name: Demo
+author: Zinno
+description: demo plugin
+
+commands:
+  slowchat:
+    description: slows chat
+    usage: /slowchat
